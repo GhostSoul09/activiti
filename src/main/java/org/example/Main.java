@@ -6,5 +6,6 @@ public class Main {
         System.out.println("pushTest");
         System.out.println("pushTest2");
         System.out.println("pushTest3");
+        System.out.println("pushTest4");
     }
 }
